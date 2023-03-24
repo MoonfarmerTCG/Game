@@ -75,24 +75,24 @@ This project has no relation with Reddit nor with the moderation of the /r/Crypt
 
 | Name  | Effect |
 | ------------- | ------------- |
-| Inexperienced Farmer  | Content Cell  |
-| Basic Farmer  | Content Cell  |
-| Experienced Farmer  | Content Cell  |
-| Extreme Farmer  | Content Cell  |
-| Max, The Help Needed  | Content Cell  |
-| Osvald, He Who Jokes  | Content Cell  |
-| Merleen, The Bull's Godsent  | Content Cell  |
-| Ominous, The First Coder  | Content Cell  |
-| Ito, Horizon Breacher  | Content Cell  |
-| Nano, The Big One  | Content Cell  |
-| Upfarm  | Content Cell  |
-| Downfarm  | Content Cell  |
-| $10 or we riot | Content Cell  |
-| F.U.D.  | Content Cell  |
-| F.O.M.O.  | Content Cell  |
-| You know that this is  | Content Cell  |
-| Wrath of Mods  | Content Cell  |
-| Not your keys, not your coins  | Content Cell  |
+| Inexperienced Farmer  | At the beginning of each turn of yours, you may add 1 moon to your Resource Pool. |
+| Basic Farmer  | At the beginning of each turn of yours, you may add 2 moons to your Resource Pool.  |
+| Experienced Farmer  | Pay 1 moon to play this card. At the beginning of each turn of yours, you may add 3 moons to your Resource Pool. |
+| Extreme Farmer  | Pay 1 moon to play this card. At the beginning of each turn of yours, you may add 4 moons to your Resource Pool.  |
+| Max, The Help Needed  | When you play this card, you may pay 1 moon and look at your opponent's hand.  |
+| Osvald, He Who Jokes  | At the beginning of each turn of yours, tell a joke. If your opponent laughs, you may add 3 moons to your Resource Pool.  |
+| Merleen, The Bull's Godsent  | When you play this card, if you have less than 20 moons in your Resource Pool add 10 moons to it.  |
+| Ominous, The First Coder  | You may pay 4 moons when you play this card. If you do so, look at your opponent's hand and discard up to three cards from it.  |
+| Ito, Horizon Breacher  | When you play this card, you may pay 25 moons. If you do so, remove it from your deck and restart the game.  |
+| Nano, The Big One  | While this card is on play, the Harvest Power of each of your opponent's farmers is reduced by 5.  |
+| Upfarm  | Add 1 moon to your Resource Pool.  |
+| Downfarm  | Remove 1 moon from your opponent's Resource Pool. |
+| $10 or we riot | If your opponent has 10 or more moons than you, you may add 10 moons to your Resource Pool.  |
+| F.U.D.  | Your opponent loses 2 moons. |
+| F.O.M.O.  | Your opponent loses 2 moons and draws a card.  |
+| You know that this is  | You may draw three cards.  |
+| Wrath of Mods  | Destroy all farmers.  |
+| Not your keys, not your coins  | This is just a reminder.  |
 
 
 
