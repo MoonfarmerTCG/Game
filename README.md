@@ -62,6 +62,10 @@ When you click over a card, Cockatrice will show it's text/effects:
 
 ![](https://github.com/MoonfarmerTCG/Game/blob/main/card_description.png)
 
+# Communicating with your friends during the game
+
+Cockatrice has a chat function, but it only supports text. It's best to setup a Discord channel for you to talk to each other by audio.
+
 # License
 
 All the collection, including game rules and artwork, is licensed under a CC BY-NC-ND license. You can not sell any of the work nor use it for any kind of commercial purposes. Full attribution must be given to the creators.
