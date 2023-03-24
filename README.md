@@ -32,7 +32,7 @@ The game automatically ends when a player reaches 42 moons on their RP.
 1. Go to https://cockatrice.github.io/ and download the software, installing it afterwards;
 2. Create an account. Go Cockatrice (in the main tab) and click on Register to server. Put your desired username and email and leave the other fields unchanged;
 3. Click Cockatrice > Connect. You should now be connected on the server;
-4. Download the card_database.xml file from here;
+4. Download the card_database.xml file from here: https://github.com/MoonfarmerTCG/Game/blob/main/card_database.xml;
 4. Click Card Database on the tab and go to Add custom sets/cards;
 5. Select the card_database.xml file you've downloaded.
 
@@ -58,4 +58,7 @@ You can now start playing!
 
 All the collection, including game rules and artwork, is licensed under a CC BY-NC-ND license. You can not sell any of the work nor use it for any kind of commercial purposes. Full attribution must be given to the creators.
 
+# Disclaimer
+
+This project has no relation with Reddit nor with the moderation of the /r/CryptoCurrency team.
 
