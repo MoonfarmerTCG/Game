@@ -72,36 +72,40 @@ This project has no relation with Reddit nor with the moderation of the /r/Crypt
 
 # Cardlist
 
-Inexperienced Farmer
 
-Basic Farmer
+| Name  | Effect |
+| ------------- | ------------- |
+| Inexperienced Farmer  | Content Cell  |
+| Basic Farmer  | Content Cell  |
+| Experienced Farmer  | Content Cell  |
+| Extreme Farmer  | Content Cell  |
+| Max, The Help Needed  | Content Cell  |
+| Osvald, He Who Jokes  | Content Cell  |
+| Merleen, The Bull's Godsent  | Content Cell  |
+| Ominous, The First Coder  | Content Cell  |
+| Ito, Horizon Breacher  | Content Cell  |
+| Nano, The Big One  | Content Cell  |
+| Upfarm  | Content Cell  |
+| Downfarm  | Content Cell  |
+| $10 or we riot | Content Cell  |
+| F.U.D.  | Content Cell  |
+| F.O.M.O.  | Content Cell  |
+| You know that this is  | Content Cell  |
+| Wrath of Mods  | Content Cell  |
+| Not your keys, not your coins  | Content Cell  |
 
-Experienced Farmer
 
-Extreme Farmer
 
-Max, The Help Needed
 
-Osvald, He Who Jokes
 
-Merleen, The Bull's Godsent
 
-Ominous, The First Coder
 
-Ito, Horizon Breacher
 
-Nano, The Big One
 
-Upfarm
 
-Downfarm
 
-$10 or we riot
 
-F.U.D.
 
-F.O.M.O.
 
-H.O.D.L.
 
-Wrath of Mods
+
