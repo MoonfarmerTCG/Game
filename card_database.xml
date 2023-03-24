@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cockatrice_carddatabase version="3">
+
+ <info>
+        <author>Moonfarmer Collectibles TCG</author>
+        <createdAt>2023</createdAt>
+        <sourceUrl>https://opensea.io/collection/moonfarmer-collectibles</sourceUrl>
+    </info>
+	<sets>
+		<set>
+			<name>Alpha</name>
+			<longname>Moonfarmer Collectibles TCG</longname>
+		</set>
+	</sets>
+	<cards>
+		<!-- Events -->
+	<card>
+            <name>Upfarm</name>
+            <text>Add 1 moon to your Resource Pool.</text>
+            <prop>
+                <colors> Gray (Event) </colors>
+                <manacost></manacost>
+                <type> Event </type>
+                <maintype></maintype>
+                <cmc></cmc>
+                <pt></pt>
+            </prop>
+            <set picURL="https://dl.openseauserdata.com/cache/originImage/files/1da3b40fe338563093c860c443457030.png"></set>
+            <set num= "1/18"> </set>
+            <reverse-related></reverse-related>
+            <tablerow>3</tablerow>
+        </card>
+        
+        <card>
+            <name>Downfarm</name>
+            <text>Remove 1 moon from your opponent's Resource Pool.</text>
+            <prop>
+                <colors> Gray (Event) </colors>
+                <manacost></manacost>
+                <type> Event </type>
+                <maintype></maintype>
+                <cmc></cmc>
+                <pt></pt>
+            </prop>
+            <set picURL="https://dl.openseauserdata.com/cache/originImage/files/4b4ea6bdf16a8afb3f35e8ca3be1797d.png"></set>
+            <reverse-related></reverse-related>
+            <tablerow>3</tablerow>
+        </card>
+        
+        <card>
+            <name>$10 or we riot</name>
+            <text>If your opponent has 10 or more moons than you, you may add 10 moons to your Resource Pool.</text>
+            <prop>
+                <colors> Gray (Event) </colors>
+                <manacost></manacost>
+                <type> Event </type>
+                <maintype></maintype>
+                <cmc></cmc>
+                <pt></pt>
+            </prop>
+            <set picURL="https://dl.openseauserdata.com/cache/originImage/files/a0b9ea1d9ee9fb48e0067fcca4e552e1.png"></set>
+            <reverse-related></reverse-related>
+            <tablerow>3</tablerow>
+        </card>
+        
+        <card>
+            <name>F.O.M.O.</name>
+            <text>Your opponent loses 2 moons and draws a card.</text>
+            <prop>
+                <colors> Gray (Event) </colors>
+                <manacost></manacost>
+                <type> Event </type>
+                <maintype></maintype>
+                <cmc></cmc>
+                <pt></pt>
+            </prop>
+            <set picURL="https://dl.openseauserdata.com/cache/originImage/files/5e59b961f40a6808ec74087fd5a773d3.png"></set>
+            <reverse-related></reverse-related>
+            <tablerow>3</tablerow>
+        </card>
+        
+        <card>
+            <name>F.U.D.</name>
+            <text>Your opponent loses 2 moons.</text>
+            <prop>
+                <colors> Gray (Event) </colors>
+                <manacost></manacost>
+                <type> Event </type>
+                <maintype></maintype>
+                <cmc></cmc>
+                <pt></pt>
+            </prop>
+            <set picURL="https://dl.openseauserdata.com/cache/originImage/files/ac5c46e4848ed37642000963332538d3.png"></set>
+            <reverse-related></reverse-related>
+            <tablerow>3</tablerow>
+        </card>
+        
+        <card>
+            <name>You know what this is</name>
+            <text>You may draw three cards.</text>
+            <prop>
+                <colors> Gray (Event) </colors>
+                <manacost></manacost>
+                <type> Event </type>
+                <maintype></maintype>
+                <cmc></cmc>
+                <pt></pt>
+            </prop>
+            <set picURL="https://dl.openseauserdata.com/cache/originImage/files/dfb9172d4ccc481a6aa2861511f63285.png"></set>
+            <reverse-related></reverse-related>
+            <tablerow>3</tablerow>
+        </card>
+        
+        <card>
+            <name>Not your keys, not your coins</name>
+            <text>This is just a reminder.</text>
+            <prop>
+                <colors> Gray (Event) </colors>
+                <manacost></manacost>
+                <type> Event </type>
+                <maintype></maintype>
+                <cmc></cmc>
+                <pt></pt>
+            </prop>
+            <set picURL="https://dl.openseauserdata.com/cache/originImage/files/6077a84f3c062776378ded84d393da47.png"></set>
+            <reverse-related></reverse-related>
+            <tablerow>3</tablerow>
+        </card>
+        
+        <card>
+            <name>Wrath of Mods</name>
+            <text>Destroy all farmers.</text>
+            <prop>
+                <colors> Gold (Special Event) </colors>
+                <manacost></manacost>
+                <type> Event </type>
+                <maintype></maintype>
+                <cmc></cmc>
+                <pt></pt>
+            </prop>
+            <set picURL="https://dl.openseauserdata.com/cache/originImage/files/d00f4e26277a0cfae880db742dd2ab7a.png"></set>
+            <reverse-related></reverse-related>
+            <tablerow>3</tablerow>
+        </card>
+        
+        <card>
+            <name>Inexperienced Farmer</name>
+            <text>At the beginning of each turn of yours, you may add 1 moon to your Resource Pool.</text>
+            <prop>
+                <colors> Black (Farmer) </colors>
+                <manacost></manacost>
+                <type> Farmer </type>
+                <maintype></maintype>
+                <cmc></cmc>
+                <pt>1</pt>
+            </prop>
+            <set picURL="https://dl.openseauserdata.com/cache/originImage/files/6077a84f3c062776378ded84d393da47.png"></set>
+            <reverse-related></reverse-related>
+            <tablerow>2</tablerow>
+        </card>
+        
+        <card>
+            <name>Basic Farmer</name>
+            <text>At the beginning of each turn of yours, you may add 2 moons to your Resource Pool.</text>
+            <prop>
+                <colors> Black (Farmer) </colors>
+                <manacost></manacost>
+                <type> Farmer </type>
+                <maintype></maintype>
+                <cmc></cmc>
+                <pt>2</pt>
+            </prop>
+            <set picURL="https://dl.openseauserdata.com/cache/originImage/files/c1397ba3160e548ea8944eea019a6515.png"></set>
+            <reverse-related></reverse-related>
+            <tablerow>2</tablerow>
+        </card>
+        
+        <card>
+            <name>Experienced Farmer</name>
+            <text>Pay 1 moon to play this card. At the beginning of each turn of yours, you may add 3 moons to your Resource Pool.</text>
+            <prop>
+                <colors> Black (Farmer) </colors>
+                <manacost></manacost>
+                <type> Farmer </type>
+                <maintype></maintype>
+                <cmc></cmc>
+                <pt>3</pt>
+            </prop>
+            <set picURL="https://dl.openseauserdata.com/cache/originImage/files/30e2fbc18f7fbd7879fa7e8f2ba6f5da.png"></set>
+            <reverse-related></reverse-related>
+            <tablerow>2</tablerow>
+        </card>
+        
+        <card>
+            <name>Extreme Farmer</name>
+            <text>Pay 1 moon to play this card. At the beginning of each turn of yours, you may add 4 moons to your Resource Pool.</text>
+            <prop>
+                <colors> Black (Farmer) </colors>
+                <manacost></manacost>
+                <type> Farmer </type>
+                <maintype></maintype>
+                <cmc></cmc>
+                <pt>4</pt>
+            </prop>
+            <set picURL="https://dl.openseauserdata.com/cache/originImage/files/65f88f2c46353103ef8065ac1aa3c097.png"></set>
+            <reverse-related></reverse-related>
+            <tablerow>2</tablerow>
+        </card>
+        
+        <card>
+            <name>Max, The Help Needed</name>
+            <text>When you play this card, you may pay 1 moon and look at your opponent's hand.</text>
+            <prop>
+                <colors> Red (Special Farmer) </colors>
+                <manacost></manacost>
+                <type> Special Farmer </type>
+                <maintype></maintype>
+                <cmc>4</cmc>
+                <pt></pt>
+            </prop>
+            <set picURL="https://dl.openseauserdata.com/cache/originImage/files/701909f1241cd0cee377ea588abc5629.png"></set>
+            <reverse-related></reverse-related>
+            <tablerow>2</tablerow>
+        </card>
+        
+        <card>
+            <name>Osvald, He Who Jokes</name>
+            <text>At the beginning of each turn of yours, tell a joke. If your opponent laughs, you may add 3 moons to your Resource Pool.</text>
+            <prop>
+                <colors> Blue (Special Farmer) </colors>
+                <manacost></manacost>
+                <type> Special Farmer </type>
+                <maintype></maintype>
+                <cmc></cmc>
+                <pt>3</pt>
+            </prop>
+            <set picURL="https://dl.openseauserdata.com/cache/originImage/files/688a75324419dff4451d937d28336b7d.png"></set>
+            <reverse-related></reverse-related>
+            <tablerow>2</tablerow>
+        </card>
+        
+        <card>
+            <name>Merleen, The Bull's Godsent</name>
+            <text>When you play this card, if you have less than 20 moons in your Resource Pool add 10 moons to it.</text>
+            <prop>
+                <colors> Green (Special Farmer) </colors>
+                <manacost></manacost>
+                <type> Special Farmer </type>
+                <maintype></maintype>
+                <cmc></cmc>
+                <pt>5</pt>
+            </prop>
+            <set picURL="https://dl.openseauserdata.com/cache/originImage/files/dc27902f522ba5f4799f706163d785d0.png"></set>
+            <reverse-related></reverse-related>
+            <tablerow>2</tablerow>
+        </card>
+        
+        <card>
+            <name>Ominous, The First Coder</name>
+            <text>You may pay 4 moons when you play this card. If you do so, look at your opponent's hand and discard up to three cards from it.</text>
+            <prop>
+                <colors> Lilac (Special Farmer) </colors>
+                <manacost></manacost>
+                <type> Special Farmer </type>
+                <maintype></maintype>
+                <cmc></cmc>
+                <pt>8</pt>
+            </prop>
+            <set picURL="https://dl.openseauserdata.com/cache/originImage/files/c47322a525851d6718b8df31164a2cdc.png"></set>
+            <reverse-related></reverse-related>
+            <tablerow>2</tablerow>
+        </card>
+        
+        <card>
+            <name>Ito, Horizon Breacher</name>
+            <text>When you play this card, you may pay 25 moons. If you do so, remove it from your deck and restart the game.</text>
+            <prop>
+                <colors> Purple (Special Farmer) </colors>
+                <manacost></manacost>
+                <type> Special Farmer </type>
+                <maintype></maintype>
+                <cmc></cmc>
+                <pt>9</pt>
+            </prop>
+            <set picURL="https://dl.openseauserdata.com/cache/originImage/files/4842395a8b93185990afd40eb22e982d.png"></set>
+            <reverse-related></reverse-related>
+            <tablerow>2</tablerow>
+        </card>
+        
+        <card>
+            <name>Nano, The Big One</name>
+            <text>While this card is on play, the Harvest Power of each of your opponent's farmers is reduced by 5.</text>
+            <prop>
+                <colors> Gold (Special Farmer) </colors>
+                <manacost></manacost>
+                <type> Special Farmer </type>
+                <maintype></maintype>
+                <cmc></cmc>
+                <pt>10</pt>
+            </prop>
+            <set picURL="https://dl.openseauserdata.com/cache/originImage/files/ea9b90568181e82ff63982949abb0e41.png"></set>
+            <reverse-related></reverse-related>
+            <tablerow>2</tablerow>
+        </card>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+	</cards>
+</cockatrice_carddatabase>
+
