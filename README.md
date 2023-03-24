@@ -29,7 +29,6 @@ The phases of the game are:
 2. Farming phase, where players play Farmers and Event cards.
 
 
-
 # Installing Cockatrice and uploading the card database
 
 1. Go to https://cockatrice.github.io/ and download the software, installing it afterwards;
@@ -57,6 +56,12 @@ That's it! Let's now create a game and wait for friends to join us.
 
 You can now start playing!
 
+# Seeing the effect of the card
+
+When you click over a card, Cockatrice will show it's text/effects:
+
+![](https://github.com/MoonfarmerTCG/Game/blob/main/card_description.png)
+
 # License
 
 All the collection, including game rules and artwork, is licensed under a CC BY-NC-ND license. You can not sell any of the work nor use it for any kind of commercial purposes. Full attribution must be given to the creators.
@@ -65,3 +70,38 @@ All the collection, including game rules and artwork, is licensed under a CC BY-
 
 This project has no relation with Reddit nor with the moderation of the /r/CryptoCurrency.
 
+# Cardlist
+
+Inexperienced Farmer
+
+Basic Farmer
+
+Experienced Farmer
+
+Extreme Farmer
+
+Max, The Help Needed
+
+Osvald, He Who Jokes
+
+Merleen, The Bull's Godsent
+
+Ominous, The First Coder
+
+Ito, Horizon Breacher
+
+Nano, The Big One
+
+Upfarm
+
+Downfarm
+
+$10 or we riot
+
+F.U.D.
+
+F.O.M.O.
+
+H.O.D.L.
+
+Wrath of Mods
