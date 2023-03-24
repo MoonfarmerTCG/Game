@@ -63,5 +63,5 @@ All the collection, including game rules and artwork, is licensed under a CC BY-
 
 # Disclaimer
 
-This project has no relation with Reddit nor with the moderation of the /r/CryptoCurrency team.
+This project has no relation with Reddit nor with the moderation of the /r/CryptoCurrency.
 
