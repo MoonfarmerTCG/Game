@@ -14,18 +14,21 @@ There are two types of cards: Farmer cards and Events cards. Farmer cards are di
 
 ![](https://preview.redd.it/wvaz63vfk7pa1.png?width=7442&format=png&auto=webp&v=enabled&s=422049b66226489147e839baeb66d9ad4a03417b)
 
-Event cards are played, their effect takes place and then the cards are put in the discard pile. Example: Upfarm is a card that lets a player add 1 moon to their RP. The player plays it, adds that moon and discards Upfarm to the discard pile.
+1. Event cards are played, their effect takes place and then the cards are put in the discard pile. Example: Upfarm is a card that lets a player add 1 moon to their RP. The player plays it, adds that moon and discards Upfarm to the discard pile.
 
-Each player starts the game with a deck with a number of cards between 27 and 30, and with 15 moons on their Resource Pool (RP). Only three copies of the same card can be on the deck, with two exceptions: Nano, The Big One, and Ito, Horizon Breacher. Players can only have one of these on their decks.
-
-Players can play a maximum of three cards per turn. There are no costs to play a card, unless the card states otherwise. 
+2. Each player starts the game with a deck with a number of cards between 27 and 30, and with 15 moons on their Resource Pool (RP). 
+3. Only three copies of the same card can be on the deck, with two exceptions: Nano, The Big One, and Ito, Horizon Breacher. Players can only have one of these on their decks.
+4. Players can play a maximum of three cards per turn. 
+5. There are no costs to play a card, unless the card states otherwise. 
+6. The game automatically ends when a player reaches 42 moons on their RP.
+7. If a player can't draw cards anymore, this player loses the game.
 
 The phases of the game are:
 
 1. Draw phase, where the player draws 2 cards from their decks;
 2. Farming phase, where players play Farmers and Event cards.
 
-The game automatically ends when a player reaches 42 moons on their RP.
+
 
 # Installing Cockatrice and uploading the card database
 
